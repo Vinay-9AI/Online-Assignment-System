@@ -1,4 +1,4 @@
-# 📚 Online Assignment System — Backend
+# 📚 Online Assignment System 
 
 ### Secure Assignment Management API Built with Express & MongoDB
 
